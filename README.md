@@ -66,8 +66,7 @@ This is a RESTful API for a book library application using Node.js and Express. 
 ## Testing
 Use Postman or ThunderClient to test the API endpoints.
 
-## Deployment
-Deploy your project to GitHub and submit the repository link.
+
 
 ## Error Handling
 The API includes robust error handling and returns meaningful messages for different error scenarios.
@@ -79,7 +78,5 @@ Follow asynchronous operations to maintain non-blocking behavior.
 
 ### 6. Testing and Submission
 
-Use Postman or ThunderClient to test all endpoints to ensure they work correctly. Once done, push your code to a GitHub repository and submit the link to the specified email before the deadline.
-
-This setup will give you a fully functional RESTful API for managing a book library with user and book operations using file-based storage.
+Use Postman or ThunderClient to test all endpoints to ensure they work correctly. This setup will give you a fully functional RESTful API for managing a book library with user and book operations using file-based storage.
 
