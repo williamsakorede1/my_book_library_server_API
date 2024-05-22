@@ -1,5 +1,4 @@
 # My_book_library_server_API
-# Book Library Server
 
 ## Overview
 
